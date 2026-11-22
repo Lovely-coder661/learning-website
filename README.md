@@ -52,4 +52,4 @@ In the future, I would like to improve this project by:
 ## Conclusion
 This project is a small but important step in my journey of learning web development and Git. Through this hands-on experience, I gained a better understanding of how Git and GitHub help developers track changes, manage code, and collaborate on projects.
 
-I will continue improving my skills by building more projects and exploring new technologies.
+I will continue improving my skills by building more projects and exploring technologies.
